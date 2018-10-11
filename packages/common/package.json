@@ -10,6 +10,7 @@
     },
     "scripts": {
         "build": "tsc",
+        "decl": "tsc --declaration",
         "build:watch": "tsc --watch"
     },
     "dependencies": {
